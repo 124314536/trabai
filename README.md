@@ -1,0 +1,2 @@
+# trabai
+tecnicas computacionais
